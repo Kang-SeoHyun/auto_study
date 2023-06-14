@@ -21,3 +21,5 @@
 * 다중 접속 유무				
 * 채팅 내용 삭제				
 * 프로그램 배포 (다운로드)
+
+![image](https://github.com/Kang-SeoHyun/auto_study/assets/77817094/e084bf18-8535-431a-a258-63d25e66bf0d)
