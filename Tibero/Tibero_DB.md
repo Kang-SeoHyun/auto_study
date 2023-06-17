@@ -109,3 +109,20 @@ OLEDB와 ODBC는 모두 데이터베이스에 접속하기 위한 API(응용 프
 * ASP, PHP, VB 등의 환경에서 사용 가능하다.
 * 사용자가 복잡한 OLE DB API 대신 ADO의 단순화된 API로 용이하게 개발이 가능하다.
 * 각종 Script 언어와 연동되어 있으므로 다양한 환경에서의 개발이 가능하다.
+
+# 티베로 드라이버 설치 참고 자료
+1. https://technet.tmaxsoft.com/upload/download/online/tibero/pver-20160406-000002/tibero_cli/chapter_tbcli_odbc.html
+	* 공식문서
+2. https://plzhoney.tistory.com/35
+```txt
+사용자 DSN
+c:window\SysWOW64\odbcad32 실행하면 확인가능
+내가 추가한 DNS는 
+위치 : 127.0.0.1
+사용자 : sys
+암호 : 6615
+포트 : 8629
+DB이름 : tibero
+이렇게 함~! (사진 참고)
+```
+![image](https://github.com/Kang-SeoHyun/Kang-SeoHyun/assets/77817094/c246c5c7-fac3-4ff5-aaa9-293c1fb5a9ca)
