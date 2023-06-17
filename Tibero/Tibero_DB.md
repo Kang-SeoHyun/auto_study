@@ -126,3 +126,21 @@ DB이름 : tibero
 이렇게 함~! (사진 참고)
 ```
 ![image](https://github.com/Kang-SeoHyun/Kang-SeoHyun/assets/77817094/c246c5c7-fac3-4ff5-aaa9-293c1fb5a9ca)
+
+## 드라이버 간략 설명
+```
+내 티베로 드라이버는 C:\Database\Tibero 에 해뒀음
+글고 %TB_HOME%\bin 에서 regsvr32 tbprov6.dll 하면 dll 등록되드라
+이미 등록은 했음
+```
+
+## 티베로 DB 64bit 설치 후  ODBC 32bit 설치 절차
+> 아마도,,
+
+1. 티베로 64bit Server 설치
+2. ODBC 드라이브 설치
+	* tbodbc_driver_installer_6_64.exe -i C:\Windows\SysWOW64
+	* tbodbc_driver_installer_5_64.exe -i C:\Windows\system32
+3. 레지스트리 등록 C:\Windows\SysWOW64
+	* regsvr32 msdtb6.dll
+	* regsvr32 tbprov6.dll
