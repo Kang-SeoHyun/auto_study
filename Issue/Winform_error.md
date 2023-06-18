@@ -12,3 +12,16 @@
 			public class LoginManager {}
 		}
 		```
+2. 로그인 끝나고 데이터 베이스 연결한 거 끊으려고 아래 코드 넣었는데 아예 프로그램이 끝남.
+	 ```cs
+		protected override void OnClosed(EventArgs e)
+        {
+            base.OnClosed(e);
+            loginManager.Close_Db_Connect();
+        }
+	```
+	* 찾아보니❗ base.OnClosed(e); 는 호출될 때 부모 클래스의 OnClosed 동작을 수행하고, 이는 폼이 닫힐 때 필요한 정리 작업 등을 수행하기 위한 것이다.
+	* 반면❗ this.Close(); 메서드는 폼을 닫고 해당 폼의 종료 이벤트만 발생시킴. 그냥 단순히 사용자가 해당 폼을 더 이상 볼 수 없게 함.
+	* ``` txt
+		정리 : base.OnClosed(e)는 부모 클래스의 OnClosed 메서드를 호출하여 부모 클래스에서 정의한 폼 닫힘 동작을 수행하고, this.Close()는 현재 폼을 닫는 동작을 수행함.
+	  ```
