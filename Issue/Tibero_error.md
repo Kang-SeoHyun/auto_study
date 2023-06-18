@@ -67,3 +67,13 @@ extent management local autoallocate;
 
 ### 또한 티베로 스튜디오에서의 [Unable to execute SQL statement]문제는 해결되었지만 여전히 CLI환경에서는 문제가 있습니다.  
 ![image](https://github.com/Kang-SeoHyun/Kang-SeoHyun/assets/77817094/f85bf49c-c693-4808-9ffd-91e2ee32c8ae)
+
+## 티베로 데이터 참조 안될때!
+https://yaraba.tistory.com/346  
+이 사람 따라서 침착하게 했는데 안됨. -> conn.Open() 이 부분  
+* 보니까 드라이버를 제대로 참조 못하는 것 같음.
+```
+해결 방법 : 프로젝트에서 오른쪽 마우스 눌러서 속성에서 빌드에서
+플랫폼 대상을 any cpu였나 여기에서 나는 64비트로 다운받아줬으니까 X64로 변경함.
+꺄악 그랫더니 됨! 
+```
