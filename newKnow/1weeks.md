@@ -27,3 +27,5 @@
 		Type resultType = result.GetType();
 		Console.WriteLine(resultType)
 		```
+10. Application.Exit(); // 프로그램 종료 코드
+11. 데이터베이스 다 설계해야 코드 짤 수 있다..
