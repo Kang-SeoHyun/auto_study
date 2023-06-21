@@ -8,7 +8,7 @@
 ![image](https://github.com/Kang-SeoHyun/auto_study/assets/77817094/678402fd-000a-417f-a9ed-25d57cd660e4)
 
 ## 화면 설계서
-(https://ovenapp.io/view/LbTnWD6iYdvRVjkvJUlhRVtd6wzwJq9d/)
+https://ovenapp.io/view/LbTnWD6iYdvRVjkvJUlhRVtd6wzwJq9d/
 
 ## 아키텍쳐 설계서
 
