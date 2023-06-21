@@ -11,6 +11,7 @@
 https://ovenapp.io/view/LbTnWD6iYdvRVjkvJUlhRVtd6wzwJq9d/
 
 ## 아키텍쳐 설계서
+![image](https://github.com/Kang-SeoHyun/auto_study/assets/77817094/24740a91-6574-4193-93d3-8511f4cb8319)
 
 ## ERD
 ![image](https://github.com/Kang-SeoHyun/auto_study/assets/77817094/e8a522c8-5c35-4214-9ea5-f7f520d500f3)  
