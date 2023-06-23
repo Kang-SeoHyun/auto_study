@@ -1,0 +1,11 @@
+C:\Users\DS\Desktop\chat_test\chat_test_cli\bin\Debug\chat_test_cli.exe.config
+C:\Users\DS\Desktop\chat_test\chat_test_cli\bin\Debug\chat_test_cli.exe
+C:\Users\DS\Desktop\chat_test\chat_test_cli\bin\Debug\chat_test_cli.pdb
+C:\Users\DS\Desktop\chat_test\chat_test_cli\obj\Debug\chat_test_cli.csproj.AssemblyReference.cache
+C:\Users\DS\Desktop\chat_test\chat_test_cli\obj\Debug\chat_test_cli.csproj.SuggestedBindingRedirects.cache
+C:\Users\DS\Desktop\chat_test\chat_test_cli\obj\Debug\chat_test_cli.Client.resources
+C:\Users\DS\Desktop\chat_test\chat_test_cli\obj\Debug\chat_test_cli.Properties.Resources.resources
+C:\Users\DS\Desktop\chat_test\chat_test_cli\obj\Debug\chat_test_cli.csproj.GenerateResource.cache
+C:\Users\DS\Desktop\chat_test\chat_test_cli\obj\Debug\chat_test_cli.csproj.CoreCompileInputs.cache
+C:\Users\DS\Desktop\chat_test\chat_test_cli\obj\Debug\chat_test_cli.exe
+C:\Users\DS\Desktop\chat_test\chat_test_cli\obj\Debug\chat_test_cli.pdb
