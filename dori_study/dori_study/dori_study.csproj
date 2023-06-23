@@ -52,6 +52,8 @@
     <Compile Include="array.Designer.cs">
       <DependentUpon>array.cs</DependentUpon>
     </Compile>
+    <Compile Include="cData.cs" />
+    <Compile Include="EnumClass.cs" />
     <Compile Include="list_Box.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,6 +66,12 @@
     <Compile Include="lotto.Designer.cs">
       <DependentUpon>lotto.cs</DependentUpon>
     </Compile>
+    <Compile Include="partial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="partial.Designer.cs">
+      <DependentUpon>partial.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="array.resx">
@@ -74,6 +82,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="lotto.resx">
       <DependentUpon>lotto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="partial.resx">
+      <DependentUpon>partial.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

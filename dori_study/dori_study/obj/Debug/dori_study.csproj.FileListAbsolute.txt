@@ -11,3 +11,17 @@ C:\Users\DS\Desktop\현대\dori_study\dori_study\obj\Debug\dori_study.pdb
 C:\Users\DS\Desktop\현대\dori_study\dori_study\obj\Debug\dori_study.list_Box.resources
 C:\Users\DS\Desktop\현대\dori_study\dori_study\obj\Debug\dori_study.array.resources
 C:\Users\DS\Desktop\현대\dori_study\dori_study\obj\Debug\dori_study.lotto.resources
+C:\Users\DS\Desktop\Git\auto_study\dori_study\dori_study\bin\Debug\dori_study.exe.config
+C:\Users\DS\Desktop\Git\auto_study\dori_study\dori_study\bin\Debug\dori_study.exe
+C:\Users\DS\Desktop\Git\auto_study\dori_study\dori_study\bin\Debug\dori_study.pdb
+C:\Users\DS\Desktop\Git\auto_study\dori_study\dori_study\obj\Debug\dori_study.csproj.AssemblyReference.cache
+C:\Users\DS\Desktop\Git\auto_study\dori_study\dori_study\obj\Debug\dori_study.csproj.SuggestedBindingRedirects.cache
+C:\Users\DS\Desktop\Git\auto_study\dori_study\dori_study\obj\Debug\dori_study.array.resources
+C:\Users\DS\Desktop\Git\auto_study\dori_study\dori_study\obj\Debug\dori_study.list_Box.resources
+C:\Users\DS\Desktop\Git\auto_study\dori_study\dori_study\obj\Debug\dori_study.lotto.resources
+C:\Users\DS\Desktop\Git\auto_study\dori_study\dori_study\obj\Debug\dori_study.partial.resources
+C:\Users\DS\Desktop\Git\auto_study\dori_study\dori_study\obj\Debug\dori_study.Properties.Resources.resources
+C:\Users\DS\Desktop\Git\auto_study\dori_study\dori_study\obj\Debug\dori_study.csproj.GenerateResource.cache
+C:\Users\DS\Desktop\Git\auto_study\dori_study\dori_study\obj\Debug\dori_study.csproj.CoreCompileInputs.cache
+C:\Users\DS\Desktop\Git\auto_study\dori_study\dori_study\obj\Debug\dori_study.exe
+C:\Users\DS\Desktop\Git\auto_study\dori_study\dori_study\obj\Debug\dori_study.pdb

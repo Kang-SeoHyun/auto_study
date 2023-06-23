@@ -18,7 +18,8 @@ namespace dori_study
             Application.SetCompatibleTextRenderingDefault(false);
             // Application.Run(new list_Box());
             // Application.Run(new array());
-            Application.Run(new lotto());
+            // Application.Run(new lotto());
+            Application.Run(new partial());
         }
     }
 }
