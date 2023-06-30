@@ -46,16 +46,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="client_form.cs">
+    <Compile Include="chatlist.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="client_form.Designer.cs">
-      <DependentUpon>client_form.cs</DependentUpon>
+    <Compile Include="chatlist.Designer.cs">
+      <DependentUpon>chatlist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientForm.Designer.cs">
+      <DependentUpon>ClientForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="client_form.resx">
-      <DependentUpon>client_form.cs</DependentUpon>
+    <EmbeddedResource Include="chatlist.resx">
+      <DependentUpon>chatlist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientForm.resx">
+      <DependentUpon>ClientForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
