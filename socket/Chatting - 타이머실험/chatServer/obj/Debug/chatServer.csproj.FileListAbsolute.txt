@@ -1,0 +1,30 @@
+C:\Users\DS\Desktop\Chatting\chatServer\bin\Debug\chatServer.exe.config
+C:\Users\DS\Desktop\Chatting\chatServer\bin\Debug\chatServer.exe
+C:\Users\DS\Desktop\Chatting\chatServer\bin\Debug\chatServer.pdb
+C:\Users\DS\Desktop\Chatting\chatServer\bin\Debug\EntLibContrib.Data.Tibero.dll
+C:\Users\DS\Desktop\Chatting\chatServer\bin\Debug\Tibero.DbAccess.dll
+C:\Users\DS\Desktop\Chatting\chatServer\obj\Debug\chatServer.csproj.AssemblyReference.cache
+C:\Users\DS\Desktop\Chatting\chatServer\obj\Debug\chatServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\DS\Desktop\Chatting\chatServer\obj\Debug\chatServer.exe.config
+C:\Users\DS\Desktop\Chatting\chatServer\obj\Debug\chatServer.ServerForm.resources
+C:\Users\DS\Desktop\Chatting\chatServer\obj\Debug\chatServer.Properties.Resources.resources
+C:\Users\DS\Desktop\Chatting\chatServer\obj\Debug\chatServer.csproj.GenerateResource.cache
+C:\Users\DS\Desktop\Chatting\chatServer\obj\Debug\chatServer.csproj.CoreCompileInputs.cache
+C:\Users\DS\Desktop\Chatting\chatServer\obj\Debug\chatServer.csproj.CopyComplete
+C:\Users\DS\Desktop\Chatting\chatServer\obj\Debug\chatServer.exe
+C:\Users\DS\Desktop\Chatting\chatServer\obj\Debug\chatServer.pdb
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatServer\bin\Debug\chatServer.exe.config
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatServer\bin\Debug\chatServer.exe
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatServer\bin\Debug\chatServer.pdb
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatServer\bin\Debug\EntLibContrib.Data.Tibero.dll
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatServer\bin\Debug\Tibero.DbAccess.dll
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatServer\obj\Debug\chatServer.csproj.AssemblyReference.cache
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatServer\obj\Debug\chatServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatServer\obj\Debug\chatServer.exe.config
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatServer\obj\Debug\chatServer.ServerForm.resources
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatServer\obj\Debug\chatServer.Properties.Resources.resources
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatServer\obj\Debug\chatServer.csproj.GenerateResource.cache
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatServer\obj\Debug\chatServer.csproj.CoreCompileInputs.cache
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatServer\obj\Debug\chatServer.csproj.CopyComplete
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatServer\obj\Debug\chatServer.exe
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatServer\obj\Debug\chatServer.pdb

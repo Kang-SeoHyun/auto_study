@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7F218EB5-9DFB-47CE-80A3-BC2CA665B1D0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>chatClient</RootNamespace>
+    <AssemblyName>chatClient</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntLibContrib.Data.Tibero">
+      <HintPath>..\..\..\..\..\TmaxData\tibero6\bin\EntLibContrib.Data.Tibero.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tibero.DbAccess">
+      <HintPath>..\..\..\..\..\TmaxData\tibero6\bin\Tibero.DbAccess.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChatRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChatRoom.Designer.cs">
+      <DependentUpon>ChatRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChatRoomList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChatRoomList.Designer.cs">
+      <DependentUpon>ChatRoomList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChatRoomAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChatRoomAdd.Designer.cs">
+      <DependentUpon>ChatRoomAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IdCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IdCheck.Designer.cs">
+      <DependentUpon>IdCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBConnect.cs" />
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mouse.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUp.Designer.cs">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IdUnlock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IdUnlock.Designer.cs">
+      <DependentUpon>IdUnlock.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ChatRoom.resx">
+      <DependentUpon>ChatRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChatRoomList.resx">
+      <DependentUpon>ChatRoomList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChatRoomAdd.resx">
+      <DependentUpon>ChatRoomAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdCheck.resx">
+      <DependentUpon>IdCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUp.resx">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdUnlock.resx">
+      <DependentUpon>IdUnlock.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\파스텔.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-bubble-chat-3820168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-login-password-98726.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-enter-1828395.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-add-user-748137.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-checking-3852130.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-arrow-10901899.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-unlocked-295666.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-unlocked-784592.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-add-6461113.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-add-5150518.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-add-message-7167813.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-chat-5465394.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-magnifying-glass-3603748.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-clock-2997985.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-chat-54653941.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-chat-group-4339395.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-reload-6066779.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-eyes-7835667.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

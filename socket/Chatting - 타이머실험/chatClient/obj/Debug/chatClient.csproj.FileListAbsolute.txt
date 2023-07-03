@@ -1,0 +1,42 @@
+C:\Users\DS\Desktop\Chatting\chatClient\bin\Debug\chatClient.exe.config
+C:\Users\DS\Desktop\Chatting\chatClient\bin\Debug\chatClient.exe
+C:\Users\DS\Desktop\Chatting\chatClient\bin\Debug\chatClient.pdb
+C:\Users\DS\Desktop\Chatting\chatClient\bin\Debug\EntLibContrib.Data.Tibero.dll
+C:\Users\DS\Desktop\Chatting\chatClient\bin\Debug\Tibero.DbAccess.dll
+C:\Users\DS\Desktop\Chatting\chatClient\obj\Debug\chatClient.csproj.AssemblyReference.cache
+C:\Users\DS\Desktop\Chatting\chatClient\obj\Debug\chatClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\DS\Desktop\Chatting\chatClient\obj\Debug\chatClient.exe.config
+C:\Users\DS\Desktop\Chatting\chatClient\obj\Debug\chatClient.Properties.Resources.resources
+C:\Users\DS\Desktop\Chatting\chatClient\obj\Debug\chatClient.csproj.GenerateResource.cache
+C:\Users\DS\Desktop\Chatting\chatClient\obj\Debug\chatClient.csproj.CoreCompileInputs.cache
+C:\Users\DS\Desktop\Chatting\chatClient\obj\Debug\chatClient.csproj.CopyComplete
+C:\Users\DS\Desktop\Chatting\chatClient\obj\Debug\chatClient.exe
+C:\Users\DS\Desktop\Chatting\chatClient\obj\Debug\chatClient.pdb
+C:\Users\DS\Desktop\Chatting\chatClient\obj\Debug\chatClient.Home.resources
+C:\Users\DS\Desktop\Chatting\chatClient\obj\Debug\chatClient.SignUp.resources
+C:\Users\DS\Desktop\Chatting\chatClient\obj\Debug\chatClient.ChatRoom.resources
+C:\Users\DS\Desktop\Chatting\chatClient\obj\Debug\chatClient.ChatRoomAdd.resources
+C:\Users\DS\Desktop\Chatting\chatClient\obj\Debug\chatClient.IdCheck.resources
+C:\Users\DS\Desktop\Chatting\chatClient\obj\Debug\chatClient.IdUnlock.resources
+C:\Users\DS\Desktop\Chatting\chatClient\obj\Debug\chatClient.ChatRoomList.resources
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\bin\Debug\chatClient.exe.config
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\bin\Debug\chatClient.exe
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\bin\Debug\chatClient.pdb
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\bin\Debug\EntLibContrib.Data.Tibero.dll
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\bin\Debug\Tibero.DbAccess.dll
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\obj\Debug\chatClient.csproj.AssemblyReference.cache
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\obj\Debug\chatClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\obj\Debug\chatClient.exe.config
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\obj\Debug\chatClient.ChatRoom.resources
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\obj\Debug\chatClient.ChatRoomList.resources
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\obj\Debug\chatClient.ChatRoomAdd.resources
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\obj\Debug\chatClient.IdCheck.resources
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\obj\Debug\chatClient.Home.resources
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\obj\Debug\chatClient.Properties.Resources.resources
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\obj\Debug\chatClient.SignUp.resources
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\obj\Debug\chatClient.IdUnlock.resources
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\obj\Debug\chatClient.csproj.GenerateResource.cache
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\obj\Debug\chatClient.csproj.CoreCompileInputs.cache
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\obj\Debug\chatClient.csproj.CopyComplete
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\obj\Debug\chatClient.exe
+C:\Users\DS\Desktop\Chatting - 타이머실험\chatClient\obj\Debug\chatClient.pdb
